@@ -1,0 +1,101 @@
+Date,Product,Category,Sales,Temperature,Ratings
+2023-01-01,Souris Sans Fil,Stockage,39.0,19.9,1.88
+2023-01-02,Clavier Mécanique,Stockage,29.0,17.3,3.84
+2023-01-03,Souris Sans Fil,Stockage,15.0,10.4,4.24
+2023-01-04,Ordinateur Portable,Stockage,43.0,15.0,2.39
+2023-01-05,Disque Dur Externe,Périphériques,8.0,27.8,1.38
+2023-01-06,Écran 24 pouces,Accessoires,21.0,29.8,4.76
+2023-01-07,Souris Sans Fil,Ordinateurs,39.0
+2023-01-08,Ordinateur Portable,Stockage,19.0,33.2,03.07
+2023-01-09,Écran 24 pouces,Stockage,23.0,26.3,4.35
+2023-01-10,Disque Dur Externe,Stockage,11.0,32.9,3.7
+2023-01-11,Écran 24 pouces,Périphériques,,31.3,3.94
+2023-01-12,Ordinateur Portable,Stockage,24.0,21.2,1.84
+2023-01-13,Écran 24 pouces,Stockage,36.0,12.4,3.17
+2023-01-14,Clavier Mécanique,Stockage,40.0,19.3,3.78
+2023-01-15,Écran 24 pouces,Accessoires,24.0,26.7,1.91
+2023-01-16,Souris Sans Fil,Périphériques,-1.0,26.6,1.7
+2023-01-17,Souris Sans Fil,Stockage,22.0,24.8,4.93
+2023-01-18,Clavier Mécanique,Ordinateurs,2.0,16.9,03.07
+2023-01-19,Ordinateur Portable,Ordinateurs,24.0,24.0,02.04
+2023-01-20,Souris Sans Fil,Ordinateurs,44.0
+2023-01-21,Disque Dur Externe,Périphériques,30.0,34.3,4.86
+2023-01-22,Souris Sans Fil,Périphériques,38.0,31.2,3.23
+2023-01-23,Souris Sans Fil,Ordinateurs,2.0,28.0,4.53
+2023-01-24,Ordinateur Portable,Stockage,,15.9
+2023-01-25,Écran 24 pouces,Périphériques,33.0,16.4,2.12
+2023-01-26,Souris Sans Fil,Ordinateurs,12.0,11.0,3.8
+2023-01-27,Clavier Mécanique,Ordinateurs,22.0,27.8,4.39
+2023-01-28,Écran 24 pouces,Stockage,44.0,12.8,4.43
+2023-01-29,Disque Dur Externe,Accessoires,25.0,21.0,2.62
+2023-01-30,Ordinateur Portable,Périphériques,49.0,15.0,4.55
+2023-01-31,Disque Dur Externe,Stockage,27.0,32.4,4.4
+2023-02-01,Écran 24 pouces,Ordinateurs,,21.9,4.74
+2023-02-02,Écran 24 pouces,Ordinateurs,28.0,24.1,4.14
+2023-02-03,Écran 24 pouces,Stockage,16.0,27.4,3.68
+2023-02-04,Disque Dur Externe,Périphériques,15.0,13.5,3.32
+2023-02-05,Écran 24 pouces,Accessoires,47.0,25.1,2.49
+2023-02-06,Disque Dur Externe,Accessoires,44.0,23.5,4.76
+2023-02-07,Écran 24 pouces,Ordinateurs,3.0,15.1,4.89
+2023-02-08,Clavier Mécanique,Périphériques,37.0,,2.14
+2023-02-09,Écran 24 pouces,Accessoires,7.0,25.0,2.22
+2023-02-10,Disque Dur Externe,Périphériques,21.0,27.4,2.94
+2023-02-11,Souris Sans Fil,Périphériques,9.0,32.0,2.79
+2023-02-12,Écran 24 pouces,Ordinateurs,,25.6,4.98
+2023-02-13,Souris Sans Fil,Accessoires,18.0,17.4,1.7
+2023-02-14,Clavier Mécanique,Stockage,4.0,12.6,01.07
+2023-02-15,Ordinateur Portable,Ordinateurs,25.0,21.4,2.98
+2023-02-16,Clavier Mécanique,Accessoires,14.0,15.5,1.72
+2023-02-17,Écran 24 pouces,Accessoires,,20.4,2.47
+2023-02-18,Souris Sans Fil,Accessoires,26.0,32.1,3.98
+2023-02-19,Souris Sans Fil,Accessoires,2.0,18.1,3.88
+2023-02-20,Disque Dur Externe,Accessoires,20.0,13.1,2.23
+2023-02-21,Souris Sans Fil,Périphériques,28.0,18.9,3.17
+2023-02-22,Disque Dur Externe,Ordinateurs,47.0,32.7,03.04
+2023-02-23,Ordinateur Portable,Périphériques,7.0,16.8,3.55
+2023-02-24,Écran 24 pouces,Stockage,44.0,26.2,2.0
+2023-02-25,Disque Dur Externe,Accessoires,8.0,10.0,3.36
+2023-02-26,Ordinateur Portable,Ordinateurs,47.0,18.8,4.92
+2023-02-27,Souris Sans Fil,Accessoires,35.0,17.6,2.95
+2023-02-28,Souris Sans Fil,Ordinateurs,14.0,14.1,4.62
+2023-03-01,Ordinateur Portable,Périphériques,17.0,23.4,2.74
+2023-03-02,Souris Sans Fil,Ordinateurs,36.0,22.1,2.4
+2023-03-03,Ordinateur Portable,Stockage,-1.0,27.3,3.58
+2023-03-04,Disque Dur Externe,Stockage,4.0,16.7,3.68
+2023-03-05,Disque Dur Externe,Ordinateurs,2.0,16.1,4.46
+2023-03-06,Ordinateur Portable,Ordinateurs,6.0,14.2,1.92
+2023-03-07,Disque Dur Externe,Ordinateurs,42.0,15.5,3.0
+2023-03-08,Disque Dur Externe,Ordinateurs,4.0,24.0,3.29
+2023-03-09,Disque Dur Externe,Stockage,29.0,20.1,04.07
+2023-03-10,Clavier Mécanique,Accessoires,18.0,11.6,1.17
+2023-03-11,Écran 24 pouces,Ordinateurs,,16.3,4.98
+2023-03-12,Souris Sans Fil,Ordinateurs,44.0,,2.88
+2023-03-13,Clavier Mécanique,Stockage,34.0,27.4,2.12
+2023-03-14,Disque Dur Externe,Stockage,10.0,27.8,4.53
+2023-03-15,Ordinateur Portable,Périphériques,36.0,13.7,3.99
+2023-03-16,Disque Dur Externe,Ordinateurs,14.0,34.9,4.81
+2023-03-17,Écran 24 pouces,Périphériques,31.0,16.7
+2023-03-18,Disque Dur Externe,Stockage,48.0,34.4,3.21
+2023-03-19,Ordinateur Portable,Stockage,15.0,20.3,3.29
+2023-03-20,Écran 24 pouces,Accessoires,8.0,10.8,4.92
+2023-03-21,Disque Dur Externe,Ordinateurs,,18.6
+2023-03-22,Écran 24 pouces,Périphériques,23.0,25.9,2.22
+2023-03-23,Souris Sans Fil,Stockage,40.0,27.0,1.76
+2023-03-24,Souris Sans Fil,Stockage,21.0,,02.07
+2023-03-25,Disque Dur Externe,Périphériques,16.0,21.2,2.94
+2023-03-26,Écran 24 pouces,Accessoires,45.0,23.8,2.49
+2023-03-27,Ordinateur Portable,Stockage,18.0,24.8,2.58
+2023-03-28,Disque Dur Externe,Ordinateurs,,12.0,4.38
+2023-03-29,Souris Sans Fil,Stockage,24.0,19.2,4.72
+2023-03-30,Souris Sans Fil,Ordinateurs,26.0,16.1,1.28
+2023-03-31,Disque Dur Externe,Périphériques,25.0,30.1,1.84
+2023-04-01,Écran 24 pouces,Ordinateurs,,21.8,3.68
+2023-04-02,Souris Sans Fil,Périphériques,41.0,34.6,2.43
+2023-04-03,Écran 24 pouces,Ordinateurs,29.0,20.0,02.02
+2023-04-04,Souris Sans Fil,Périphériques,15.0,30.4,2.18
+2023-04-05,Souris Sans Fil,Ordinateurs,45.0,30.0,2.29
+2023-04-06,Clavier Mécanique,Accessoires,1.0,13.8,4.39
+2023-04-07,Souris Sans Fil,Ordinateurs,25.0,22.7,1.55
+2023-04-08,Ordinateur Portable,Ordinateurs,7.0,27.4,3.84
+2023-04-09,Disque Dur Externe,Accessoires,9.0,31.5,3.21
+2023-04-10,Disque Dur Externe,Stockage,,18.1,2.19
